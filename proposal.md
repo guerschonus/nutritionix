@@ -24,5 +24,4 @@ You may have not picked your actual API yet, which is fine, just outline what ki
 of data you would like it to contain. You are welcome to create your own API and
 populate it with data. If you are using a Python/Flask stack are required to create
 your own API.
-
-I used to plan nutrition data using the nutritionix API : https://trackapi.nutritionix.com/docs/#/
+I plan to use nutrition data using the nutritionix API : https://trackapi.nutritionix.com/docs/#/
